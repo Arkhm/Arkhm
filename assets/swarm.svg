@@ -11,7 +11,7 @@
     .r{opacity:0;animation:cycle 12s ease-in-out infinite}.r1{animation-delay:4s}.r2{animation-delay:8s}
     @media (prefers-reduced-motion:reduce){*{animation:none!important}.in,.pop{opacity:1;transform:none}.dr{stroke-dashoffset:0}.r{opacity:0}.r0{opacity:1}}
     @keyframes go{0%{transform:translateX(0);opacity:0}10%,85%{opacity:1}100%{transform:translateX(180px);opacity:0}}
-    .pk{animation:go 2.4s cubic-bezier(.65,0,.35,1) infinite}</style>
+    .pk{animation:go 2.4s cubic-bezier(.65,0,.35,1) infinite}@media (prefers-color-scheme:dark){[fill="#141518"]{fill:#ececee}[stroke="#141518"]{stroke:#ececee}[stop-color="#141518"]{stop-color:#ececee}[fill="#fcfcfc"]{fill:#16171a}[stroke="#fcfcfc"]{stroke:#16171a}[stop-color="#fcfcfc"]{stop-color:#16171a}[fill="#ffffff"]{fill:#0f1012}[stroke="#ffffff"]{stroke:#0f1012}[stop-color="#ffffff"]{stop-color:#0f1012}[fill="#55575f"]{fill:#a0a2ab}[stroke="#55575f"]{stroke:#a0a2ab}[stop-color="#55575f"]{stop-color:#a0a2ab}}</style>
 <defs>
   <pattern id="hts" width="10" height="10" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><circle cx="5" cy="5" r="2.3" fill="#141518"/></pattern>
   <linearGradient id="fds" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#fff" stop-opacity=".55"/></linearGradient>
