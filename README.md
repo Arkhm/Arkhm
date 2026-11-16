@@ -6,17 +6,13 @@ I build products end to end, from the database to the screen people use every da
 
 ## Projects
 
-<a href="https://github.com/Arkhm/tri-agent-swarm"><img src="assets/swarm.svg" alt="tri-agent-swarm: Claude Code, Codex and Gemini splitting one task as a team" width="65.8%" /></a>
-<a href="https://github.com/Arkhm/DomusApp"><img src="assets/domusapp.svg" alt="DomusApp: my capstone, a condo admin panel with residents and roles" width="32.1%" /></a>
+<p><a href="https://github.com/Arkhm/tri-agent-swarm"><img src="assets/swarm.svg" alt="tri-agent-swarm: Claude Code, Codex and Gemini splitting one task as a team" width="65.8%" /></a> <a href="https://github.com/Arkhm/DomusApp"><img src="assets/domusapp.svg" alt="DomusApp: my capstone, a condo admin panel with residents and roles" width="32.1%" /></a></p>
 
-<img src="assets/kiosk.svg" alt="Kiosk POS (private repo): sales, stock and cash for a small kiosk" width="48.9%" />
-<img src="assets/sites.svg" alt="Client sites (private repos): fast static sites for small businesses" width="48.9%" />
+<p><img src="assets/kiosk.svg" alt="Kiosk POS (private repo): sales, stock and cash for a small kiosk" width="48.9%" /> <img src="assets/sites.svg" alt="Client sites (private repos): fast static sites for small businesses" width="48.9%" /></p>
 
 <sub>Kiosk POS and the client sites live in private repos.</sub>
 
-<img src="assets/hobbies.svg" alt="Hobbies: side projects I build for fun, around games." width="32.5%" />
-<a href="https://github.com/Arkhm/fortAFK"><img src="assets/fortafk.svg" alt="fortAFK: a macro recorder that watches the screen" width="32.5%" /></a>
-<a href="https://github.com/Arkhm/Genji_EldenRing"><img src="assets/genji.svg" alt="Genji in Elden Ring: first-person Genji, written as a Rust DLL" width="32.5%" /></a>
+<p><img src="assets/hobbies.svg" alt="Hobbies: side projects I build for fun, around games." width="32.5%" /> <a href="https://github.com/Arkhm/fortAFK"><img src="assets/fortafk.svg" alt="fortAFK: a macro recorder that watches the screen" width="32.5%" /></a> <a href="https://github.com/Arkhm/Genji_EldenRing"><img src="assets/genji.svg" alt="Genji in Elden Ring: first-person Genji, written as a Rust DLL" width="32.5%" /></a></p>
 
 ## Stack
 
